@@ -3,7 +3,7 @@ apply plugin: 'jacoco'
 apply plugin: 'application'
 
 
-mainClassName = 'RedesNeuraisACJ_Webcam.Main'
+mainClassName = 'RedesNeuraisACJ_Webcam.RedesACJWebcam'
 
 repositories {
     jcenter()
