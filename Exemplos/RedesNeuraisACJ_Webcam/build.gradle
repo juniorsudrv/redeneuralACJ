@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'jacoco'
+apply plugin: 'application'
+
+
+mainClassName = 'RedesNeuraisACJ_Webcam.Main'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+     compile fileTree(dir: 'libs', include: '*.jar')
+    testImplementation     'junit:junit:4.13'
+}
