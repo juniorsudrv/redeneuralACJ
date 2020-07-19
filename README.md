@@ -5,6 +5,7 @@ Dicas: Cuidado para não usar dados ambiguos por exemplo, se vai treinar a rede 
 As imagens devem sempre ter as mesmas dimensões.
 
 Os exemplos rodam no Apache Netbeans 12 com gradle.
+Se tiver problemas para abrir o projeto WebCam, utilize o Projeto para Netbeans 8 sem Gradle.
 
 Link dos videos :
 
@@ -12,4 +13,4 @@ Treinando a rede para diferenciar numeros par de impar : https://youtu.be/VAqVNM
 
 Separando letras, X e O: https://youtu.be/XfYqRO8WujI
 
-Reconhecimento em tempo real com WebCam, Treino e Reconhecimento : 
+Reconhecimento em tempo real com WebCam, Treino e Reconhecimento : https://youtu.be/qylNOcith_A
